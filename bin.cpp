@@ -26,6 +26,7 @@ int main() {
   int f_f;
   f_f = first_fit(oggetti);
   printf ("\n%i\n", f_f);
-  printf("Test")
+  printf("Test");
+  printf("Test Manjarone");
   return 1;
 }
